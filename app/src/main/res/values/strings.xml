@@ -1,0 +1,95 @@
+<resources>
+
+    <!--app info-->
+    <string name="app_name">Material Wallpaper</string>
+    <string name="app_copyright">Copyright &#169; 2020 Solodroid Developer \n All rights reserved</string>
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Solodroid</string>
+    <string name="gdpr_privacy_policy_url">https://sites.google.com/view/news-app-demo-privacy-policy/home</string>
+
+    <!--navigation name-->
+    <string name="title_nav_home">Wallpapers</string>
+    <string name="title_nav_category">Categories</string>
+    <string name="title_nav_favorite">Favorites</string>
+
+    <!--title tab menu and sort option-->
+    <string name="menu_recent">Recent</string>
+    <string name="menu_featured">Featured</string>
+    <string name="menu_popular">Popular</string>
+    <string name="menu_random">Random</string>
+    <string name="menu_live">Live Wallpaper</string>
+    <string name="title_sort">Sort Wallpapers</string>
+
+    <!--toolbar main menu-->
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Search&#8230;</string>
+    <string name="menu_overflow_settings">Settings</string>
+    <string name="menu_overflow_rate_us">Rate us</string>
+    <string name="menu_overflow_more_apps">More apps</string>
+    <string name="menu_overflow_about">About</string>
+
+    <!--wallpaper and category aspect ratio-->
+    <string name="wallpaper_image_ratio">H,1:1.5</string>
+    <string name="category_image_ratio">H,2:1</string>
+
+    <!--set wallpaper option-->
+    <string name="dialog_set_title">Set As : </string>
+    <string name="set_home_screen">Home Screen</string>
+    <string name="set_lock_screen">Lock Screen</string>
+    <string name="set_both">Home and Lock Screens</string>
+    <string name="set_crop">Crop</string>
+    <string name="set_with">Set With&#8230;</string>
+    <string name="dialog_option_ok">OK</string>
+    <string name="option_yes">Yes</string>
+    <string name="dialog_option_cancel">Cancel</string>
+    <string name="btn_set_wallpaper">SET WALLPAPER</string>
+
+    <!--snack bar message-->
+    <string name="snack_bar_applying">Applying&#8230;</string>
+    <string name="snack_bar_applied">Wallpaper applied.</string>
+    <string name="snack_bar_failed">Wallpaper not set.</string>
+    <string name="snack_bar_error">Failed! Please try again later.</string>
+    <string name="snack_bar_preparing">Preparing&#8230;</string>
+    <string name="snack_bar_saving">Saving&#8230;</string>
+    <string name="snack_bar_saved">Wallpaper saved.</string>
+    <string name="snack_bar_favorite_removed">Wallpaper removed from favorite</string>
+    <string name="snack_bar_favorite_added">Wallpaper added to favorite</string>
+
+    <!--network & error message-->
+    <string name="whops">Whoops!</string>
+    <string name="failed_title_text">Whoops!</string>
+    <string name="failed_text">there is something problem with your network or the server is currently down, please try it again later.</string>
+    <string name="no_category_found">It looks like there are no category available at this time</string>
+    <string name="no_search_found">No wallpapers found! if you want to continue search, please try enter another keyword!</string>
+    <string name="msg_no_item">It looks like there are no wallpapers available in this section.</string>
+    <string name="msg_no_favorite">Your favorite list is empty because you do not add any news in the favorite menu.</string>
+    <string name="msg_search_input">Please Insert Keyword</string>
+    <string name="btn_retry">Retry</string>
+
+    <!--settings and others-->
+    <string name="menu_settings">Settings</string>
+    <string name="msg_clear_cache">Are you sure want to clear cache?</string>
+    <string name="title_setting_theme">Dark Theme</string>
+    <string name="sub_title_setting_theme">Better for eyesight &amp; battery life</string>
+    <string name="title_setting_display_wallpaper">Display Wallpaper</string>
+    <string name="option_menu_wallpaper_2_columns">2 Columns</string>
+    <string name="option_menu_wallpaper_3_columns">3 Columns</string>
+    <string name="title_setting_notification">Notification</string>
+    <string name="sub_title_setting_notification">Subscribe to receive wallpapers update</string>
+    <string name="title_setting_clear_cache">Clear Cache</string>
+    <string name="sub_setting_clear_cache_start">Free up</string>
+    <string name="sub_setting_clear_cache_end">of space</string>
+    <string name="title_setting_privacy">Privacy Policy</string>
+    <string name="sub_title_setting_privacy">App Terms &amp; Policies</string>
+    <string name="title_setting_copyright">Copyright Information</string>
+    <string name="sub_title_setting_copyright">All wallpapers that are available in the App are free and it\'s credit goes to their respective owners. These wallpapers are licensed under the Creative Commons Zero (CC0) license. Please contact us if you find any wallpaper that violates any rules and we will remove the wallpaper.</string>
+    <string name="title_setting_about">About</string>
+    <string name="sub_title_setting_about">App info  &amp; build version</string>
+    <string name="msg_about_version">Version</string>
+    <string name="msg_please_wait">Please Wait&#8230;</string>
+    <string name="msg_clearing_cache">Clearing cache</string>
+    <string name="msg_cache_cleared">cache has been cleared</string>
+    <string name="snackbar_exit">Press again to exit app</string>
+    <string name="title_setting_path">Wallpaper Saved To</string>
+    <string name="wallpaper_count_text">Wallpapers</string>
+
+</resources>

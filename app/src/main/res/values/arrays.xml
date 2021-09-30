@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog_sort_wallpaper">
+        <item>@string/menu_recent</item>
+        <item>@string/menu_featured</item>
+        <item>@string/menu_popular</item>
+        <item>@string/menu_random</item>
+        <item>@string/menu_live</item>
+    </string-array>
+
+    <string-array name="dialog_set_wallpaper">
+        <item>@string/set_home_screen</item>
+        <item>@string/set_lock_screen</item>
+        <item>@string/set_both</item>
+        <item>@string/set_crop</item>
+        <item>@string/set_with</item>
+    </string-array>
+
+    <string-array name="dialog_set_crop_wallpaper">
+        <item>@string/set_home_screen</item>
+        <item>@string/set_lock_screen</item>
+        <item>@string/set_both</item>
+    </string-array>
+
+    <string-array name="dialog_wallpaper_columns">
+        <item>@string/option_menu_wallpaper_2_columns</item>
+        <item>@string/option_menu_wallpaper_3_columns</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="spacing_xsmall">4dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_xxlarge">40dp</dimen>
+
+    <dimen name="grid_space_wallpaper">4dp</dimen>
+    <dimen name="wallpaper_corner_radius">8dp</dimen>
+
+    <dimen name="tab_indicator_offset">0dp</dimen>
+
+    <dimen name="chips_space">6dp</dimen>
+
+    <dimen name="gnt_text_size_small">12sp</dimen>
+    <dimen name="gnt_ad_indicator_width">25dp</dimen>
+    <dimen name="gnt_ad_indicator_height">20dp</dimen>
+    <dimen name="gnt_ad_indicator_text_size">10sp</dimen>
+
+</resources>
